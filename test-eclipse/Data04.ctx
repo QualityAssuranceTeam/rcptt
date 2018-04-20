@@ -1,0 +1,25 @@
+--- RCPTT testcase ---
+Format-Version: 1.0
+Context-Type: org.eclipse.rcptt.ctx.parameters
+Element-Name: Data04
+Element-Type: context
+Element-Version: 2.0
+Id: _HYQOYNuAEee4p_UklZQlEw
+Runtime-Version: 2.2.0.201706152316
+Save-Time: 12/7/17 10:59 AM
+
+------=_.description-216f885c-d591-38ce-8ea2-e4f8cb4d6ffa
+Content-Type: text/plain
+Entry-Name: .description
+
+Your string is 192 characters long.
+------=_.description-216f885c-d591-38ce-8ea2-e4f8cb4d6ffa--
+------=_.parameters.context-2e023de5-3294-36a9-ac1d-6701f05a40ee
+Content-Type: text/properties
+Entry-Name: .parameters.context
+
+#Thu Dec 07 10:59:46 PST 2017
+ProjectName=koooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooodsdsdsdsdoskdsdsdsdsdsdkoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooodsdsdsdsdoskdsdsdsdsdsdkoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooodsdsdsdsdoskdsdsdsdsdsd
+ScrnPath=/test/rcptt-workspace/demo-eclipse/screenshots/test-04.png
+
+------=_.parameters.context-2e023de5-3294-36a9-ac1d-6701f05a40ee--
