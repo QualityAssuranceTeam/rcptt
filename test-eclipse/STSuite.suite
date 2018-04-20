@@ -1,0 +1,19 @@
+--- RCPTT testcase ---
+Format-Version: 1.0
+Element-Name: STSuite
+Element-Type: testsuite
+Element-Version: 2.0
+Id: _kMyu4NoOEeeZPbX38Ant5g
+Runtime-Version: 2.2.0.201706152316
+Save-Time: 12/7/17 11:15 AM
+Tags: smoke test
+
+------=_testcase-items-62c497da-4241-31f4-811a-6b453a3ecff8
+Content-Type: text/testcase
+Entry-Name: testcase-items
+
+_uYAUwNoFEeeKP4qP8NRV3Q	// kind: 'test' name: 'CreateNew' path: 'CreateNew.test'
+_r6B80NoNEeeZPbX38Ant5g	// kind: 'test' name: 'CreateSubFolder' path: 'CreateSubFolder.test'
+_4CZjMNoVEeeZPbX38Ant5g	// kind: 'test' name: 'HelloWorld' path: 'HelloWorld.test'
+
+------=_testcase-items-62c497da-4241-31f4-811a-6b453a3ecff8--

@@ -1,19 +1,19 @@
 --- RCPTT testcase ---
 Format-Version: 1.0
 Context-Type: org.eclipse.rcptt.ctx.parameters
-Element-Name: Data03
+Element-Name: TD_CreateNew
 Element-Type: context
 Element-Version: 2.0
-Id: _75pSgNt-Eee4p_UklZQlEw
+Id: _1G0Q4NrbEeeMxO_zPzHBgw
 Runtime-Version: 2.2.0.201706152316
-Save-Time: 12/7/17 10:48 AM
+Save-Time: 12/6/17 3:41 PM
 
 ------=_.parameters.context-2e023de5-3294-36a9-ac1d-6701f05a40ee
 Content-Type: text/properties
 Entry-Name: .parameters.context
 
-#Thu Dec 07 10:48:24 PST 2017
-ProjectName=\u0442\u0435\u0441\u0442 \u043F\u0440\u043E\u0435\u043A\u0442
-ScrnPath=/test/rcptt-workspace/demo-eclipse/screenshots/test-03.png
+#Wed Dec 06 15:41:05 PST 2017
+ProjectName=testJava
+ScrnPath=/test/rcptt-workspace/test-eclipse/screenshots/test-01.png
 
 ------=_.parameters.context-2e023de5-3294-36a9-ac1d-6701f05a40ee--

@@ -1,0 +1,33 @@
+--- RCPTT testcase ---
+Format-Version: 1.0
+Context-Type: org.eclipse.rcptt.ctx.ecl
+Element-Name: CreateNew
+Element-Type: context
+Element-Version: 2.0
+Id: _aeH7ANrbEeeMxO_zPzHBgw
+Runtime-Version: 2.2.0.201706152316
+Save-Time: 2/22/18 3:33 PM
+
+------=_.ecl.context-718f04b4-ed39-33e3-af62-0995e4561998
+Content-Type: text/ecl
+Entry-Name: .ecl.context
+
+proc "Navigate" {
+get-menu -path "File/New/Java Project" | click
+}
+proc "CreateNew" [val ProjectName] [val ScrnPath] {
+	with [get-window "New Java Project"] {
+	    get-editbox -after [get-label "Project name:"] | set-text $ProjectName
+	    //wait 2000 //demo wait
+    	get-object | save-screenshot $ScrnPath
+    	get-button Finish | click    
+	}
+}
+proc "DeleteNew" {
+	get-view "Package Explorer" | get-tree | select $ProjectName | get-menu -path Delete | click
+	with [get-window "Delete Resources"] {
+    	get-button "Delete project contents on disk (cannot be undone)" | check
+    	get-button OK | click
+	}
+}
+------=_.ecl.context-718f04b4-ed39-33e3-af62-0995e4561998--
